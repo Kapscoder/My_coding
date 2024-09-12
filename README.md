@@ -1,4 +1,4 @@
 # My_coding
-This is java code.
+This is java code for Tic Tac Toe
 <br>
-author kapil 
+Author kapil wavale
